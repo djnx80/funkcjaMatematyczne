@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1456787192 source:d:\cb\funkcjamatematyczne\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<cmath>
+
+1446964368 d:\cb\funkcjamatematyczne\allegrostart.h
+
+1456787206 source:d:\cb\funkcjamatematyczne\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1455613066 source:k:\cb\funkcjamatematyczne\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 k:\cb\funkcjamatematyczne\allegrostart.h
+
+1455711818 source:k:\cb\funkcjamatematyczne\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<cmath>
+
+1456787296 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<cmath>
+
+1446964368 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\allegrostart.h
+
+1456787206 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1466366593 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<cmath>
+
+1446964368 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\allegrostart.h
+
+1456787206 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\funkcjamatematyczne\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1456787206 source:i:\cb\funkcjamatematyczne\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467389915 i:\cb\funkcjamatematyczne\allegrostart.h
+
+1467658041 source:i:\cb\funkcjamatematyczne\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	<stdio.h>
+	<math.h>
+	<string>
+	<cmath>
+
